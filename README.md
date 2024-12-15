@@ -1,10 +1,9 @@
-👋 Hi, I’m @suraniunnati
-🌱 I’m currently learning front-end development and exploring modern web technologies like HTML, CSS, JavaScript, React, and more.
-💻 Passionate about building interactive and user-friendly web applications.
-💞️ I’m looking to collaborate on front-end projects, open-source contributions, and innovative ideas in web development.
-🔗 Check out my repositories to see my projects and contributions!
-🌟 Fun Fact: I love exploring new technologies and continuously improving my coding skills!
-
+<p>👋 Hi, I’m @suraniunnati</p>
+<p>🌱 I’m currently learning front-end development and exploring modern web technologies like HTML, CSS, JavaScript, React, and more.</p>
+<p>💻 Passionate about building interactive and user-friendly web applications.</p>
+<p>💞️ I’m looking to collaborate on front-end projects, open-source contributions, and innovative ideas in web development.</p>
+<p>🔗 Check out my repositories to see my projects and contributions!</p>
+<p>🌟 Fun Fact: I love exploring new technologies and continuously improving my coding skills!</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/unnatisurani14/) 
