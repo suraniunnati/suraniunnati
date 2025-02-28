@@ -4,7 +4,7 @@
 <p>💞️ I’m looking to collaborate on front-end projects, open-source contributions, and innovative ideas in web development.</p>
 <p>🔗 Check out my repositories to see my projects and contributions!</p>
 <p>🌟 Fun Fact: I love exploring new technologies and continuously improving my coding skills!</p>
-<p>Portfolio : <a href="https://suraniunnati.github.io/">https://suraniunnati.github.io/</a></p>
+<p>Portfolio : <a href="https://portfoliounnati.netlify.app/">https://portfoliounnati.netlify.app</a></p>
 
 
 ## 🌐 Socials:
